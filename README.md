@@ -21,3 +21,5 @@ A FastAPI-based backend application that analyzes PDF resumes against job descri
 pip install -r requirements.txt
 
 uvicorn app.main:app --reload
+
+### "This project is for educational purposes only using public Kaggle data. It is not intended for any commercial use."
